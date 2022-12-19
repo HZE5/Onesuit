@@ -1,0 +1,38 @@
+::-webkit-scrollbar {
+    width: 5px;
+    overflow-x: none;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: #fff;
+    margin-block: 0.25em;
+    border-radius: 0.3em;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #495057;
+    border-radius: 50px;
+  }
+.firstview{
+    background: #000;
+    height: 35em;
+    border-bottom-left-radius: 10em;
+    border-bottom-right-radius: 10em;
+}
+.logo{
+    font-weight: 900;
+    font-size: 2rem;
+}
+.download{
+    border: none;
+    padding: 18px;
+    border-radius: 23px;
+    color: #fff;
+}
+.about{
+    text-align: center;
+}
+.about p{
+    text-align: justify;
+}
+.news1{
+    text-align: justify;
+}
